@@ -18,7 +18,6 @@ import {
 } from '@aomao/engine';
 import { ImageOptions } from '.';
 import ImageComponent, { ImageValue } from './component';
-import { imageMaxHeight } from './component/image';
 
 export interface ImageUploaderOptions extends PluginOptions {
 	/**
